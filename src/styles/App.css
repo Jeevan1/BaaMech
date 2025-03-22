@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+@import 'tailwindcss';
+@import 'tailwindcss-animated';
+@config "../../tailwind.config.ts";
+
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+/* h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+} */
+
+/* Ensure the slider container is working properly */
+
+/* Add margin to the slick slides for space between them */
+.slick-slide {
+  margin-right: 20px; /* Adjust this value for the desired gap */
+}
+
+/* If you don't want the last slide to have extra space */
+.slick-slide:last-child {
+  margin-right: 20px;
+}
+.slick-list {
+  /* No need for overflow-x: hidden unless required */
+  margin-left: 40px;
+}
+
+/* Ensure the slick-track is using flexbox */
+.slider-container .slick-track {
+  display: flex !important;
+}

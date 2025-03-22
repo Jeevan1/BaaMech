@@ -1,0 +1,325 @@
+{
+  "nav": [
+    {
+      "label": "Features",
+      "path": "/#features",
+      "icon": "features"
+    },
+    {
+      "label": "About",
+      "path": "/#about",
+      "icon": "about"
+    },
+    {
+      "label": "Contact",
+      "path": "/#contact",
+      "icon": "contact"
+    },
+    {
+      "label": "Terms",
+      "path": "/terms",
+      "icon": "terms"
+    },
+    {
+      "label": "Privacy",
+      "path": "/privacy",
+      "icon": "privacy"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "name": "Engine Diagnostics",
+      "image": "/assets/app/app1.png",
+      "description": "Advanced engine diagnostics to identify and resolve issues efficiently."
+    },
+    {
+      "id": 2,
+      "name": "Oil Change",
+      "image": "/assets/app/app2.png",
+      "description": "Regular oil changes to keep your engine running smoothly and efficiently."
+    },
+    {
+      "id": 3,
+      "name": "Brake Repair",
+      "image": "/assets/app/app3.png",
+      "description": "Professional brake inspection and repair to ensure road safety."
+    },
+    {
+      "id": 4,
+      "name": "Tire Services",
+      "image": "/assets/app/app1.png",
+      "description": "Tire rotation, balancing, and replacement for better performance and longevity."
+    },
+    {
+      "id": 5,
+      "name": "Battery Replacement",
+      "image": "/assets/app/app2.png",
+      "description": "Battery testing and replacement to prevent unexpected breakdowns."
+    },
+    {
+      "id": 6,
+      "name": "Wheel Alignment",
+      "image": "/assets/app/app3.png",
+      "description": "Wheel alignment and balancing to improve handling and stability."
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "location": "New York, NY",
+      "rating": 5,
+      "feedback": "Amazing service! The team was incredibly professional and fixed my car in no time. Highly recommend them!",
+      "image": "/assets/testimonials/john_doe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "location": "Los Angeles, CA",
+      "rating": 4,
+      "feedback": "Great experience overall. The mechanics were friendly, and the service was done quickly. My car has been running smoothly ever since!",
+      "image": "/assets/testimonials/jane_smith.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Emily Johnson",
+      "location": "Chicago, IL",
+      "rating": 5,
+      "feedback": "I was blown away by the excellent service! They really know their stuff and fixed the issue with my brakes that I couldn't get resolved anywhere else.",
+      "image": "/assets/testimonials/emily_johnson.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "location": "Houston, TX",
+      "rating": 4,
+      "feedback": "I had a tire issue that was fixed quickly. The price was reasonable, and the customer service was excellent!",
+      "image": "/assets/testimonials/michael_brown.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sarah Williams",
+      "location": "Miami, FL",
+      "rating": 5,
+      "feedback": "Highly skilled mechanics! They diagnosed and repaired my car’s transmission problem in a day. I’ll definitely return for future services.",
+      "image": "/assets/testimonials/sarah_williams.jpg"
+    }
+  ],
+  "faq": [
+    {
+      "id": 1,
+      "question": "What services do you offer?",
+      "answer": "We offer a wide range of mechanic services, including engine diagnostics, brake repair, oil changes, and general vehicle maintenance."
+    },
+    {
+      "id": 2,
+      "question": "Do you provide emergency roadside assistance?",
+      "answer": "Yes, we provide 24/7 emergency roadside assistance, including towing, battery jump-starts, and flat tire repair."
+    },
+    {
+      "id": 3,
+      "question": "How can I book an appointment?",
+      "answer": "You can book an appointment by calling our service center, visiting our website, or using our mobile app."
+    },
+    {
+      "id": 4,
+      "question": "What are your operating hours?",
+      "answer": "We are open Monday to Saturday from 8:00 AM to 6:00 PM. We are closed on Sundays."
+    },
+    {
+      "id": 5,
+      "question": "Do you offer warranty on repairs?",
+      "answer": "Yes, we offer a warranty on most repairs, covering parts and labor for a specified period. Please contact us for more details."
+    },
+    {
+      "id": 6,
+      "question": "Can I get a cost estimate before the repair?",
+      "answer": "Yes, we provide free estimates before starting any repair work to ensure transparency and no hidden charges."
+    },
+    {
+      "id": 7,
+      "question": "Do you use original manufacturer parts?",
+      "answer": "We use both OEM (Original Equipment Manufacturer) and high-quality aftermarket parts, depending on customer preference and availability."
+    },
+    {
+      "id": 8,
+      "question": "How long does a typical repair take?",
+      "answer": "The time required depends on the type of repair. Minor repairs can be completed within a few hours, while major repairs may take a couple of days."
+    },
+    {
+      "id": 9,
+      "question": "Do you offer discounts or membership programs?",
+      "answer": "Yes, we offer seasonal discounts and a membership program that provides exclusive benefits, such as priority service and discounts on repairs."
+    },
+    {
+      "id": 10,
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, credit/debit cards, and online payments. Financing options are also available for major repairs."
+    }
+  ],
+
+  "terms_and_conditions": [
+    {
+      "title": "Introduction",
+      "content": [
+        "Welcome to Baato Mechanic! These Terms and Conditions ('Terms') govern your use of our mobile application and services. By using Baato Mechanic, you agree to comply with these Terms. If you do not agree, please do not use our services."
+      ]
+    },
+    {
+      "title": "Definitions",
+      "content": [
+        {
+          "title": "Platform",
+          "content": "Refers to Baato Mechanic, including the mobile application and any associated services."
+        },
+        {
+          "title": "Consumer",
+          "content": "A user requesting vehicle repair or engineering services."
+        },
+        {
+          "title": "Mechanic",
+          "content": "A professional providing vehicle repair services."
+        },
+        {
+          "title": "Engineer",
+          "content": "A professional providing engineering services such as lathe work and boring."
+        }
+      ]
+    },
+    {
+      "title": "Services Offered",
+      "content": [
+        {
+          "title": "On-Road Vehicle Repair",
+          "content": " Consumers can request a mechanic to come to a specified location and repair their vehicle."
+        },
+        {
+          "title": "Engineering Services",
+          "content": " Consumers can request services like lathe work, boring, and other garage-related engineering work. The engineer may either visit the consumer, pick up the item for repair, or require the consumer to drop the item at the workshop."
+        }
+      ]
+    },
+    {
+      "title": "User Responsibilities",
+      "content": [
+        {
+          "title": "Consumer Responsibilities",
+          "content": [
+            "Provide accurate location details when requesting a service. Ensure vehicle safety while waiting for the mechanic. Inspect and confirm the completion of service before accepting the repair. Pay the agreed service fee in cash."
+          ]
+        },
+        {
+          "title": "Mechanic and Engineer Responsibilities",
+          "content": [
+            "Provide professional and reliable services. Arrive at the location in a timely manner after accepting a service request. Clearly communicate the service scope, estimated costs, and required parts before proceeding. Ensure proper handling and repair of vehicles or engineering items."
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Liability and Disputes",
+      "content": [
+        "The mechanic is responsible for the repair while it is in progress. Once the repair is completed and accepted by the user, Baato Mechanic is not responsible for any subsequent issues. Any disputes regarding the service must be resolved directly between the user and the mechanic. Baato Mechanic may assist in mediation but holds no liability."
+      ]
+    },
+    {
+      "title": "Mechanic and Engineer Verification",
+      "content": [
+        "All mechanics and engineers registered on Baato Mechanic undergo ID verification and background checks. However, Baato Mechanic does not guarantee the quality of services provided."
+      ]
+    },
+    {
+      "title": "Payments and Cancellation Policy",
+      "content": [
+        "As of now, only cash payments are supported. Wallet and online payment options will be introduced in the future. If a user cancels a service request after the mechanic is en route or has arrived, the user must pay for the mechanic’s travel expenses."
+      ]
+    },
+    {
+      "title": "Insurance and Guarantees",
+      "content": [
+        "Baato Mechanic currently does not provide any insurance or guarantees for repairs. Future updates may include repair warranties."
+      ]
+    },
+    {
+      "title": "Data Protection and Privacy",
+      "content": "Your personal information is protected as outlined in our Privacy Policy."
+    },
+    {
+      "title": "Modifications to Terms",
+      "content": "Baato Mechanic reserves the right to update these Terms at any time. Continued use of the platform after modifications constitutes agreement to the new Terms."
+    }
+  ],
+  "privacy_policy": [
+    {
+      "title": "Introduction",
+      "content": [
+        "This Privacy Policy explains how Baato Mechanic collects, uses, and protects your personal information when you use our platform."
+      ]
+    },
+    {
+      "title": "Information We Collect",
+      "content": [
+        {
+          "title": "Consumers",
+          "content": ["Name", "Phone number", "Email", "Vehicle number"]
+        },
+        {
+          "title": "Mechanics and Engineers",
+          "content": [
+            "Name",
+            "Phone number",
+            "Email",
+            "ID verification details",
+            "Background check information"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How We Use Your Data",
+      "content": [
+        "Facilitate connections between users and mechanics/engineers.",
+        "Improve our platform and services.",
+        "Process transactions and customer support requests.",
+        "Ensure security and fraud prevention."
+      ]
+    },
+    {
+      "title": "Data Sharing",
+      "content": [
+        "We do not sell, rent, or trade your data.",
+        "With mechanics and engineers to complete service requests.",
+        "With law enforcement if required by law.",
+        "With third-party service providers for analytics and app functionality."
+      ]
+    },
+    {
+      "title": "Data Security",
+      "content": [
+        "We implement security measures to protect your personal data. However, no online platform is completely secure, so users should take precautions when sharing sensitive information."
+      ]
+    },
+    {
+      "title": "Retention of Data",
+      "content": [
+        "We retain personal data as long as necessary to provide our services and comply with legal obligations."
+      ]
+    },
+    {
+      "title": "Your Rights",
+      "content": [
+        "Request access to your personal data.",
+        "Request correction or deletion of your data.",
+        "Opt out of marketing communications."
+      ]
+    },
+    {
+      "title": "Changes to Policy",
+      "content": [
+        "Baato Mechanic may update this Privacy Policy from time to time. Users will be notified of significant changes."
+      ]
+    }
+  ]
+}
